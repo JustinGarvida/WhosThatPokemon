@@ -1,2 +1,2 @@
-# WhosThatPokeMon
+# WhosThatPokemon
 Will update
